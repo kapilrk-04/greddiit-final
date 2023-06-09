@@ -3,6 +3,8 @@ KAPIL RAJESH KAVITHA, 2021101028
 
 # EXECUTION INSTRUCTIONS
 
+Add MONGO_URI and JWT_SECRET to the `.env` file in backend directory before running.
+
 ## TO RUN WITHOUT DOCKER
 
 ### Backend 
